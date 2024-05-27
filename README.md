@@ -1,10 +1,10 @@
-# task_management
+# task_management_UI
 
-A new Flutter project.
+An old Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is my first flutter project, and I had fun exploring the different ways I could build the UI of my task management app, which I had designed on Figma after settings down the UML Diagrams for its entities and services.
 
 A few resources to get you started if this is your first Flutter project:
 
